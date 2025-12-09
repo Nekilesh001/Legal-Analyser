@@ -1,0 +1,179 @@
+{
+  "app": {
+    "title": "कानूनी अनुबंध विश्लेषक",
+    "subtitle": "भारतीय कानूनी ढांचे के लिए AI-संचालित अनुबंध विश्लेषण",
+    "tagline": "विश्वास के साथ अनुबंधों का विश्लेषण करें"
+  },
+  "navigation": {
+    "dashboard": "डैशबोर्ड",
+    "analyzer": "अनुबंध विश्लेषक",
+    "templates": "अनुबंध टेम्प्लेट",
+    "history": "विश्लेषण इतिहास",
+    "reports": "रिपोर्ट",
+    "settings": "सेटिंग्स",
+    "help": "सहायता और समर्थन"
+  },
+  "dashboard": {
+    "welcome": "कानूनी अनुबंध विश्लेषक में आपका स्वागत है",
+    "overview": "आपके अनुबंध विश्लेषण का अवलोकन",
+    "totalAnalyses": "कुल विश्लेषण",
+    "avgRiskScore": "औसत जोखिम स्कोर",
+    "highRiskContracts": "उच्च जोखिम अनुबंध",
+    "recentActivity": "हाल की गतिविधि",
+    "quickActions": "त्वरित कार्य",
+    "analyzeNew": "नया अनुबंध विश्लेषण करें",
+    "viewTemplates": "टेम्प्लेट देखें",
+    "generateReport": "रिपोर्ट जेनरेट करें"
+  },
+  "analyzer": {
+    "title": "अनुबंध विश्लेषक",
+    "subtitle": "अपने कानूनी अनुबंधों को अपलोड और विश्लेषण करें",
+    "uploadArea": "अपना अनुबंध यहाँ खींचें और छोड़ें या ब्राउज़ करने के लिए क्लिक करें",
+    "supportedFormats": "समर्थित प्रारूप: PDF, DOCX, TXT",
+    "contractType": "अनुबंध प्रकार",
+    "analysisDepth": "विश्लेषण गहराई",
+    "language": "दस्तावेज़ भाषा",
+    "startAnalysis": "विश्लेषण शुरू करें",
+    "analyzing": "अनुबंध का विश्लेषण हो रहा है...",
+    "extractingText": "दस्तावेज़ से टेक्स्ट निकाला जा रहा है...",
+    "performingOCR": "स्कैन किए गए दस्तावेज़ पर OCR किया जा रहा है...",
+    "analyzingClauses": "अनुबंध खंडों का विश्लेषण हो रहा है...",
+    "assessingRisks": "कानूनी जोखिमों का आकलन हो रहा है...",
+    "generatingReport": "विश्लेषण रिपोर्ट तैयार की जा रही है..."
+  },
+  "contractTypes": {
+    "employment": "रोजगार अनुबंध",
+    "vendor": "विक्रेता समझौता",
+    "lease": "पट्टा समझौता",
+    "service": "सेवा समझौता",
+    "nda": "गैर-प्रकटीकरण समझौता",
+    "partnership": "साझेदारी समझौता",
+    "licensing": "लाइसेंसिंग समझौता",
+    "purchase": "खरीद समझौता",
+    "general": "सामान्य अनुबंध"
+  },
+  "analysisDepth": {
+    "basic": "बुनियादी विश्लेषण",
+    "comprehensive": "व्यापक विश्लेषण",
+    "detailed": "विस्तृत कानूनी समीक्षा"
+  },
+  "results": {
+    "title": "विश्लेषण परिणाम",
+    "overallRisk": "समग्र जोखिम स्कोर",
+    "riskFactors": "जोखिम कारक",
+    "keyFindings": "मुख्य निष्कर्ष",
+    "recommendations": "सिफारिशें",
+    "compliance": "अनुपालन जांच",
+    "clauses": "महत्वपूर्ण खंड",
+    "summary": "कार्यकारी सारांश",
+    "exportReport": "रिपोर्ट निर्यात करें",
+    "saveAnalysis": "विश्लेषण सहेजें"
+  },
+  "riskLevels": {
+    "low": "कम जोखिम",
+    "medium": "मध्यम जोखिम",
+    "high": "उच्च जोखिम",
+    "critical": "गंभीर जोखिम"
+  },
+  "clauses": {
+    "termination": "समाप्ति खंड",
+    "payment": "भुगतान शर्तें",
+    "liability": "दायित्व खंड",
+    "confidentiality": "गोपनीयता",
+    "intellectual_property": "बौद्धिक संपदा",
+    "dispute_resolution": "विवाद समाधान",
+    "force_majeure": "अप्रत्याशित परिस्थिति",
+    "governing_law": "शासी कानून",
+    "warranties": "वारंटी",
+    "indemnification": "क्षतिपूर्ति"
+  },
+  "recommendations": {
+    "negotiate": "इस खंड पर बातचीत करने पर विचार करें",
+    "review": "कानूनी समीक्षा की आवश्यकता है",
+    "acceptable": "शर्तें स्वीकार्य लगती हैं",
+    "caution": "सावधानी के साथ आगे बढ़ें",
+    "reject": "इन शर्तों को अस्वीकार करने पर विचार करें"
+  },
+  "templates": {
+    "title": "अनुबंध टेम्प्लेट",
+    "subtitle": "सामान्य अनुबंध प्रकारों के लिए पूर्व-निर्मित टेम्प्लेट",
+    "useTemplate": "टेम्प्लेट का उपयोग करें",
+    "customize": "अनुकूलित करें",
+    "preview": "पूर्वावलोकन"
+  },
+  "history": {
+    "title": "विश्लेषण इतिहास",
+    "subtitle": "आपके पिछले अनुबंध विश्लेषण",
+    "date": "दिनांक",
+    "contractName": "अनुबंध नाम",
+    "type": "प्रकार",
+    "riskScore": "जोखिम स्कोर",
+    "status": "स्थिति",
+    "actions": "कार्य",
+    "view": "देखें",
+    "download": "डाउनलोड करें",
+    "delete": "हटाएं"
+  },
+  "reports": {
+    "title": "रिपोर्ट और विश्लेषण",
+    "subtitle": "आपके अनुबंध विश्लेषण से अंतर्दृष्टि",
+    "riskTrends": "जोखिम रुझान",
+    "contractTypes": "अनुबंध प्रकार वितरण",
+    "complianceScore": "अनुपालन स्कोर",
+    "monthlyAnalyses": "मासिक विश्लेषण"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "subtitle": "अपनी विश्लेषण प्राथमिकताओं को अनुकूलित करें",
+    "language": "इंटरफेस भाषा",
+    "defaultContractType": "डिफ़ॉल्ट अनुबंध प्रकार",
+    "analysisDepth": "डिफ़ॉल्ट विश्लेषण गहराई",
+    "notifications": "सूचनाएं",
+    "dataRetention": "डेटा प्रतिधारण",
+    "exportFormat": "निर्यात प्रारूप",
+    "save": "सेटिंग्स सहेजें",
+    "reset": "डिफ़ॉल्ट पर रीसेट करें"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "warning": "चेतावनी",
+    "info": "जानकारी",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "view": "देखें",
+    "download": "डाउनलोड करें",
+    "upload": "अपलोड करें",
+    "search": "खोजें",
+    "filter": "फिल्टर",
+    "sort": "क्रमबद्ध करें",
+    "export": "निर्यात",
+    "import": "आयात",
+    "close": "बंद करें",
+    "back": "वापस",
+    "next": "अगला",
+    "previous": "पिछला",
+    "yes": "हाँ",
+    "no": "नहीं"
+  },
+  "errors": {
+    "fileUpload": "फाइल अपलोड करने में त्रुटि",
+    "fileFormat": "असमर्थित फाइल प्रारूप",
+    "fileTooLarge": "फाइल का आकार बहुत बड़ा है",
+    "analysisError": "विश्लेषण के दौरान त्रुटि",
+    "networkError": "नेटवर्क कनेक्शन त्रुटि",
+    "genericError": "एक अप्रत्याशित त्रुटि हुई"
+  },
+  "help": {
+    "title": "सहायता और समर्थन",
+    "gettingStarted": "शुरुआत करना",
+    "howToAnalyze": "अनुबंधों का विश्लेषण कैसे करें",
+    "understandingResults": "परिणामों को समझना",
+    "faq": "अक्सर पूछे जाने वाले प्रश्न",
+    "contact": "समर्थन से संपर्क करें"
+  }
+}
