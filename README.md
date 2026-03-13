@@ -2,7 +2,6 @@
 
 A powerful, modern React-based application designed to streamline legal document review. This tool analyzes contract text, identifies potential risks, detects critical clauses, and provides actionable recommendations based on a built-in legal knowledge base.
 
-![Legal Analyzer Screenshot](https://via.placeholder.com/800x450.png?text=Legal+Contract+Analyzer+Dashboard)
 
 ## ✨ Key Features
 
@@ -66,3 +65,4 @@ The application should now be running at `http://localhost:3000`.
 ## ⚖️ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
