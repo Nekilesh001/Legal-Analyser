@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Legal Contract Analyzer
 
 A powerful, modern React-based application designed to streamline legal document review. This tool analyzes contract text, identifies potential risks, detects critical clauses, and provides actionable recommendations based on a built-in legal knowledge base.
@@ -196,4 +195,4 @@ This is a deliberate simplification for local development and is clearly labeled
 ## Disclaimer
 
 LexClarity provides automated legal information and analysis only. It does not constitute legal advice. Always consult a qualified lawyer before making decisions based on its output.
->>>>>>> dev
+
