@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+build/
+*.db
+.DS_Store
+venv/
+chroma_db/
+rag_knowledge_base/legal_documents/
