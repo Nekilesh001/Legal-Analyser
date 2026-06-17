@@ -1,0 +1,111 @@
+
+==================================================
+QUESTION 1: What is the penalty under the Minimum Wages Act 1948 for paying less than the minimum wage?
+LOW CONFIDENCE: False
+RETRIEVED CHUNKS: 5
+SOURCES: ['Minimumwagesact — Section 1 (Minimumwagesact — Section 1)', 'Minimumwagesact — Section 22 (Minimumwagesact — Section 22)', 'Payment of Wages Act — Section 20 (Payment of Wages Act — Section 20)', 'Minimumwagesact — Section 3 (Minimumwagesact — Section 3)']
+ANSWER:
+Based on the available legal documents: 
+The penalty for paying less than the minimum wage under the Minimum Wages Act, 1948, is not explicitly stated in the provided excerpts for this specific offense. However, section 20 of the Act provides penalties for various offenses, including contravening provisions related to payment of wages. For contravening certain sections, the penalty is a fine between 1,500 rupees and 7,500 rupees, while for other sections, the penalty is a fine that may extend to 3,750 rupees. However, the exact penalty for paying less than the minimum wage is not specified in the given excerpts. 
+(Minimum Wages Act, 1948, Section 20)
+
+⚠️ Disclaimer: This information is for general awareness only and does not constitute legal advice. Consult a qualified lawyer before taking any action.
+
+==================================================
+QUESTION 2: Under the Payment of Gratuity Act 1972, how many years of continuous service are required to be eligible for gratuity?
+LOW CONFIDENCE: False
+RETRIEVED CHUNKS: 5
+SOURCES: ['Payment Of Gratuity Act 1972 — Section 4 (Payment Of Gratuity Act 1972 — Section 4)', 'Payment Of Gratuity Act 1972 — Section 5 (Payment Of Gratuity Act 1972 — Section 5)', 'Payment Of Gratuity Act 1972 — Section 6 (Payment Of Gratuity Act 1972 — Section 6)', 'Payment Of Gratuity Act 1972 — Section 7 (Payment Of Gratuity Act 1972 — Section 7)']
+ANSWER:
+Based on the available legal documents: 
+The Payment of Gratuity Act 1972 requires an employee to have rendered continuous service for not less than five years to be eligible for gratuity, except in cases where the termination of employment is due to death or disablement. 
+(Act name and section number: The Payment of Gratuity Act, 1972, Section 4(1)).
+
+⚠️ Disclaimer: This information is for general awareness only and does not constitute legal advice. Consult a qualified lawyer before taking any action.
+
+==================================================
+QUESTION 3: What notice period is required for employee termination under Section 25F of the Industrial Disputes Act 1947?
+LOW CONFIDENCE: False
+RETRIEVED CHUNKS: 5
+SOURCES: ['Payment Of Gratuity Act 1972 — Section 9 (Payment Of Gratuity Act 1972 — Section 9)', 'Showfile — Section 25F (Showfile — Section 25F)', 'Payment Of Gratuity Act 1972 — Section 11 (Payment Of Gratuity Act 1972 — Section 11)', '1637820826 Tamil Nadu Shops And Establishments Rules 1948 — Section unknown (1637820826 Tamil Nadu Shops And Establishments Rules 1948 — Section unknown)', '1637820824 Tamil Nadu Shops And Establishments Act 1947 — Section 41 (1637820824 Tamil Nadu Shops And Establishments Act 1947 — Section 41)']
+ANSWER:
+Based on the available legal documents: 
+The provided excerpts do not contain enough information to answer the question about the notice period required for employee termination under Section 25F of the Industrial Disputes Act 1947. The excerpts mention Section 25F in relation to compensation, but they do not specify the notice period. 
+(Industrial Disputes Act, 1947, no specific section number available)
+
+⚠️ Disclaimer: This information is for general awareness only and does not constitute legal advice. Consult a qualified lawyer before taking any action.
+
+==================================================
+QUESTION 4: What are the rules regarding maternity leave duration under the Maternity Benefit Act 1961?
+LOW CONFIDENCE: False
+RETRIEVED CHUNKS: 5
+SOURCES: ['Maternity Benefit Act — Section 10 (Maternity Benefit Act — Section 10)', 'Maternity Benefit Act — Section 4 (Maternity Benefit Act — Section 4)', 'Maternity Benefit Act — Section 30 (Maternity Benefit Act — Section 30)', 'Maternity Benefit Act — Section 5 (Maternity Benefit Act — Section 5)']
+ANSWER:
+Based on the available legal documents: The Maternity Benefit Act, 1961, provides that no employer shall knowingly employ a woman in any establishment during the six weeks immediately following the day of her delivery, miscarriage, or medical termination of pregnancy. Additionally, no woman shall work in any establishment during the six weeks immediately following the day of her delivery, miscarriage, or medical termination of pregnancy. It is also stated that a pregnant woman shall not be required to do any work that is of an arduous nature or which involves long hours of standing during the period of one month immediately preceding the period of six weeks before the date of her expected delivery. 
+
+Please note that some sections of the provided excerpts have been amended, and it is recommended to verify the current version of the Act to ensure the information applies. The Maternity Benefit Act, 1961, is a central legislation, and its provisions may apply across India, but it is always best to consult a qualified lawyer to confirm the applicability in a specific jurisdiction.
+
+Source citations: The Maternity Benefit Act, 1961 (Section 4).
+
+⚠️ Disclaimer: This information is for general awareness only and does not constitute legal advice. Consult a qualified lawyer before taking any action.
+
+==================================================
+QUESTION 5: Can an employer deduct wages arbitrarily under the Payment of Wages Act 1936?
+LOW CONFIDENCE: False
+RETRIEVED CHUNKS: 5
+SOURCES: ['1637820824 Tamil Nadu Shops And Establishments Act 1947 — Section 34 (1637820824 Tamil Nadu Shops And Establishments Act 1947 — Section 34)', 'Payment of Wages Act — Section 7 (Payment of Wages Act — Section 7)', 'Minimumwagesact — Section 5 (Minimumwagesact — Section 5)', '872F5B2F19E22606D26363E27862E621 — Section 72 (872F5B2F19E22606D26363E27862E621 — Section 72)']
+ANSWER:
+Based on the available legal documents: The Payment of Wages Act 1936 does not allow an employer to deduct wages arbitrarily. According to section 7(1) of the Act, "the wages of an employed person shall be paid to him without deductions of any kind except those authorised by or under this Act." Additionally, section 34(1) states that "The wages of a person employed shall be paid to him without deductions of any kind except those authorised by or under this Act." This suggests that deductions can only be made in accordance with the provisions of the Act, and section 34(2) lists specific types of deductions that are permitted, such as fines, deductions for absence from duty, and deductions for damage to or loss of goods. Section 37 also provides that deductions for damage or loss shall not be made until the person employed has been given an opportunity to show cause against the deduction. Therefore, arbitrary deductions are not allowed under the Act. (Payment of Wages Act 1936, sections 7(1) and 34(1) and 34(2) and 37)
+
+⚠️ Disclaimer: This information is for general awareness only and does not constitute legal advice. Consult a qualified lawyer before taking any action.
+
+==================================================
+QUESTION 6: How do I bake a chocolate chip cookie?
+LOW CONFIDENCE: True
+RETRIEVED CHUNKS: 0
+SOURCES: []
+ANSWER:
+I could not find relevant information in the legal document base for this question. This may be because the question is outside the scope of the available legal documents, or the information is not in our database. Please consult a qualified lawyer for guidance on this matter.
+
+⚠️ Disclaimer: This is not legal advice.
+
+==================================================
+QUESTION 7: What is the capital of France?
+LOW CONFIDENCE: True
+RETRIEVED CHUNKS: 0
+SOURCES: []
+ANSWER:
+I could not find relevant information in the legal document base for this question. This may be because the question is outside the scope of the available legal documents, or the information is not in our database. Please consult a qualified lawyer for guidance on this matter.
+
+⚠️ Disclaimer: This is not legal advice.
+
+==================================================
+QUESTION 8: What was the score of the last cricket match between India and Australia?
+LOW CONFIDENCE: True
+RETRIEVED CHUNKS: 0
+SOURCES: []
+ANSWER:
+I could not find relevant information in the legal document base for this question. This may be because the question is outside the scope of the available legal documents, or the information is not in our database. Please consult a qualified lawyer for guidance on this matter.
+
+⚠️ Disclaimer: This is not legal advice.
+
+==================================================
+QUESTION 9: Can you tell me the current minimum wage rate for software engineers in California?
+LOW CONFIDENCE: True
+RETRIEVED CHUNKS: 0
+SOURCES: []
+ANSWER:
+I could not find relevant information in the legal document base for this question. This may be because the question is outside the scope of the available legal documents, or the information is not in our database. Please consult a qualified lawyer for guidance on this matter.
+
+⚠️ Disclaimer: This is not legal advice.
+
+==================================================
+QUESTION 10: Does the Indian Penal Code have sections governing employee termination notice periods?
+LOW CONFIDENCE: False
+RETRIEVED CHUNKS: 5
+SOURCES: ['Payment Of Gratuity Act 1972 — Section 9 (Payment Of Gratuity Act 1972 — Section 9)', 'Payment Of Gratuity Act 1972 — Section unknown (Payment Of Gratuity Act 1972 — Section unknown)', 'Payment Of Gratuity Act 1972 — Section 11 (Payment Of Gratuity Act 1972 — Section 11)', '1637820826 Tamil Nadu Shops And Establishments Rules 1948 — Section unknown (1637820826 Tamil Nadu Shops And Establishments Rules 1948 — Section unknown)', '1637820824 Tamil Nadu Shops And Establishments Act 1947 — Section 41 (1637820824 Tamil Nadu Shops And Establishments Act 1947 — Section 41)']
+ANSWER:
+Based on the available legal documents: The provided excerpts do not mention the Indian Penal Code, and the relevant information regarding employee termination notice periods is found in other sections. According to the excerpts, notice of dismissal is governed by section 41, which states that no employer shall dispense with the services of a person employed continuously for a period of not less than six months, except for a reasonable cause and without giving such person at least one month's notice or wages in lieu of such notice. 
+(Industrial Disputes Act, 1947, section 41)
+
+⚠️ Disclaimer: This information is for general awareness only and does not constitute legal advice. Consult a qualified lawyer before taking any action.
